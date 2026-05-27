@@ -1,0 +1,4 @@
+Mis apuntes de Cloud:
+
+- mkdir: sirve pa crear carpetas.
+- cd: sirve para cambiar de directorio.
