@@ -5,3 +5,4 @@ Mis apuntes de Cloud:
 - grep: sirve para buscar texto de un archivo.
 - chmod: sirve para cambiar permisos de seguridad.
 ALERTA: Intento de acceso mo autorizado en puerto 22.
+# Tip de Oro: SSH usa el puerto 22 por defecto
