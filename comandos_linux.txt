@@ -5,4 +5,6 @@ Mis apuntes de Cloud:
 - grep: sirve para buscar texto de un archivo.
 - chmod: sirve para cambiar permisos de seguridad.
 ALERTA: Intento de acceso mo autorizado en puerto 22.
-# Tip de Oro: SSH usa el puerto 22 por defecto
+# Tip de Oro: SSH usa el puerto 22 por defecto.
+- sudo apt install nginx -y: Instalar el servidor web Nginx.
+- sudo tail -f /var/log/nginx/access.log Ver los registros de acceso en tiempo real.
