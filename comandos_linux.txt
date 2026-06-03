@@ -8,3 +8,5 @@ ALERTA: Intento de acceso mo autorizado en puerto 22.
 # Tip de Oro: SSH usa el puerto 22 por defecto.
 - sudo apt install nginx -y: Instalar el servidor web Nginx.
 - sudo tail -f /var/log/nginx/access.log Ver los registros de acceso en tiempo real.
+- ip a: devuelve la informacion sobre las tarjetas de red.
+- curl if config.me: devuelve la ip publica que tiene asignada el dispositivo.
