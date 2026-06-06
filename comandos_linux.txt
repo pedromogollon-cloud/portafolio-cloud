@@ -10,3 +10,4 @@ ALERTA: Intento de acceso mo autorizado en puerto 22.
 - sudo tail -f /var/log/nginx/access.log Ver los registros de acceso en tiempo real.
 - ip a: devuelve la informacion sobre las tarjetas de red.
 - curl if config.me: devuelve la ip publica que tiene asignada el dispositivo.
+- sudo ss -tuln: sirve para auditar los puertos que estan abiertos (listen).
