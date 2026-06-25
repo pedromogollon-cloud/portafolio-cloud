@@ -47,7 +47,7 @@ During the latest infrastructure cost audit, fixed costs derived from the enviro
 | **Amazon Route 53** | Active DNS Hosted Zone management for internet routing. | Fixed cost by design ($0.50/month). |
 | **AWS VPC / EC2** | Public IPv4 address allocation associated with the web server. | Global standard network charge per active IP hour. |
 
-<img width="1331" height="621" alt="Captura desde 2026-06-25 22-09-53" src="https://github.com/user-attachments/assets/094f85c3-5f4b-4b3a-8255-0294abce435c" />
+<img width="1331" height="621" alt="Captura desde 2026-06-25 22-09-53" src="https://github.com/user-attachments/assets/83c014e5-ef4d-4595-a286-450765c8094c" />
 
 
 ---
