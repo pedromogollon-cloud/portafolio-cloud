@@ -26,8 +26,7 @@ The project is structured around a traditional multi-layer production architectu
 5.  **Monitoring & Observability:** Integrated **Amazon CloudWatch** to track infrastructure behavior, resource utilization, and operational health, ensuring data-driven insight into the server's performance.
 6.  **Production Routing & DNS:** Linked the production domain `vidaplenabarcelona.com` (managed in Namecheap) with an **Amazon Route 53** Hosted Zone, enabling global name resolution to the server's public IP address.
 
-7.  > 📸 **[DRAG AND DROP YOUR EC2/NGINX/CLOUDWATCH DASHBOARD SCREENSHOT HERE]**
-> *(You can just drop your image file here and GitHub will generate the code)*
+<img width="1365" height="630" alt="Captura desde 2026-06-25 21-36-56" src="https://github.com/user-attachments/assets/d4afb99f-bc6d-4e01-abbe-bcb78b093ecc" />
 
 ---
 
