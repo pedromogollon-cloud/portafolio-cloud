@@ -37,7 +37,7 @@ As part of a Cloud Engineer's core responsibilities, this environment features a
 ### 1. Budget Control (AWS Budgets & CloudWatch Alarms)
 Automated cost tracking and metrics have been implemented to instantly notify when forecasted or actual usage exceeds established thresholds, ensuring total governance over the AWS account.
 
-> 📸 **[DRAG AND DROP YOUR BUDGET SCREENSHOT HERE - "Captura desde 2026-06-24 16-56-53.png"]**
+<img width="1365" height="630" alt="Captura desde 2026-06-25 21-48-40" src="https://github.com/user-attachments/assets/206c3193-15ed-4375-8e38-52f1d70adc4a" />
 
 ### 2. Actual Billing Analysis
 During the latest infrastructure cost audit, fixed costs derived from the environment architecture were identified and analyzed:
@@ -47,7 +47,8 @@ During the latest infrastructure cost audit, fixed costs derived from the enviro
 | **Amazon Route 53** | Active DNS Hosted Zone management for internet routing. | Fixed cost by design ($0.50/month). |
 | **AWS VPC / EC2** | Public IPv4 address allocation associated with the web server. | Global standard network charge per active IP hour. |
 
-> 📸 **[DRAG AND DROP YOUR BILLING GRAPH SCREENSHOT HERE - "Captura desde 2026-06-24 16-48-37.png"]**
+<img width="1331" height="621" alt="Captura desde 2026-06-25 22-09-53" src="https://github.com/user-attachments/assets/094f85c3-5f4b-4b3a-8255-0294abce435c" />
+
 
 ---
 
